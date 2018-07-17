@@ -1,10 +1,10 @@
-== Tinkerings with Elliptic Curves
+## Tinkerings with Elliptic Curves
 
 Nothing truly new here - there are plenty of example elliptic curve plots on the internet, but
 as with so many things, learning comes by doing, not by looking at other people's examples, so
 here is one more.
 
-== Purpose
+## Purpose
 
 Several:
 
@@ -30,7 +30,7 @@ the group order _n_ and the field order _p_ are not required to have afixed rela
 fact, it certain cases, non-prime _p_ for example, the square root can have _more_ than 2
 solutions.)
 
-== Example curves
+## Example curves
 
 A nice prime-field (p=43) prime-order group (n=47) showing 46 points (the "point at infinity" is
 the 47th) with selected multiples of the chosen generator labeled.  Easy to see that some x
@@ -39,7 +39,6 @@ field order.
 
 ![example p=43, n=47](sample_output/curve_n47_p43_a40_b12_Gx1y15.png)
 
-== Source code
+## Source code
 
 The code is written in GNU Octave but should, with minimal modifications, run in MATLAB.
-
