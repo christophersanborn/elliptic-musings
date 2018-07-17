@@ -26,8 +26,8 @@ _y<sup>2</sup> = x<sup>3</sup> + a*x + b_
 One would naturally expect two solutions for every x.  But while the _y<sup>2</sup>_ would
 naturally _imply_ two solutions, it does not necessarily guarantee the _existence_ of those two
 solutions.  So, simply put, it turns out that for some _x_ there are no solutions, and therefore
-the group order _n_ and the field order _p_ are not required to have afixed relationship.  (In
-fact, it certain cases, non-prime _p_ for example, the square root can have _more_ than 2
+the group order _n_ and the field order _p_ are not required to have a fixed relationship.  (In
+fact, in certain cases, non-prime _p_ for example, the square root can have _more_ than 2
 solutions.)
 
 ## Example curves
