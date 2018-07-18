@@ -28,7 +28,7 @@ naturally _imply_ two solutions, it does not necessarily guarantee the _existenc
 solutions.  So, simply put, it turns out that for some _x_ there are no solutions, and therefore
 the group order _n_ and the field order _p_ are not required to have a fixed relationship.  (In
 fact, in certain cases, non-prime _p_ for example, the square root can have _more_ than 2
-solutions.)
+solutions. Example: in mod 15, _y<sup>2</sup> = 4_ has four solutions: _y = 2, 7, 8,_ and _13_.)
 
 ## Example curves
 
